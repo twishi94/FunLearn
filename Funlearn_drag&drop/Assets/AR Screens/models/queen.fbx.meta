@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: ebb8f5240bdd2d54784e75d8a07fa260
+timeCreated: 1532410564
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: $$$DUMMY.bla01
+    100002: $$$DUMMY.Group001
+    100004: BWom0003-0
+    100006: BWom0003-1
+    100008: BWom0003-2
+    100010: BWom0003-4
+    100012: BWom0003-5
+    100014: BWom0003-6
+    100016: BWom0003-7
+    100018: BWom0003-H
+    100020: Camera
+    100022: Lamp
+    100024: //RootNode
+    100026: sub01
+    100028: sub02
+    100030: sub03
+    100032: sub04
+    100034: sub05
+    100036: sub06
+    100038: sub07
+    100040: sub08
+    100042: sub09
+    100044: sub10
+    400000: $$$DUMMY.bla01
+    400002: $$$DUMMY.Group001
+    400004: BWom0003-0
+    400006: BWom0003-1
+    400008: BWom0003-2
+    400010: BWom0003-4
+    400012: BWom0003-5
+    400014: BWom0003-6
+    400016: BWom0003-7
+    400018: BWom0003-H
+    400020: Camera
+    400022: Lamp
+    400024: //RootNode
+    400026: sub01
+    400028: sub02
+    400030: sub03
+    400032: sub04
+    400034: sub05
+    400036: sub06
+    400038: sub07
+    400040: sub08
+    400042: sub09
+    400044: sub10
+    2000000: Camera
+    2100000: Material
+    2100002: bottom_plastic
+    2100004: dark_leather
+    2100006: cloth
+    2100008: buttons
+    2100010: BWom0003-HD2-Hai
+    2100012: Eye
+    2100014: BWom0003-HD2-Eye
+    2100016: BWom0003-HD2-Bod
+    2300000: BWom0003-0
+    2300002: BWom0003-1
+    2300004: BWom0003-2
+    2300006: BWom0003-4
+    2300008: BWom0003-5
+    2300010: BWom0003-6
+    2300012: BWom0003-7
+    2300014: BWom0003-H
+    2300016: sub01
+    2300018: sub02
+    2300020: sub03
+    2300022: sub04
+    2300024: sub05
+    2300026: sub06
+    2300028: sub07
+    2300030: sub08
+    2300032: sub09
+    2300034: sub10
+    3300000: BWom0003-0
+    3300002: BWom0003-1
+    3300004: BWom0003-2
+    3300006: BWom0003-4
+    3300008: BWom0003-5
+    3300010: BWom0003-6
+    3300012: BWom0003-7
+    3300014: BWom0003-H
+    3300016: sub01
+    3300018: sub02
+    3300020: sub03
+    3300022: sub04
+    3300024: sub05
+    3300026: sub06
+    3300028: sub07
+    3300030: sub08
+    3300032: sub09
+    3300034: sub10
+    4300000: sub01
+    4300002: sub02
+    4300004: sub03
+    4300006: sub04
+    4300008: sub05
+    4300010: sub06
+    4300012: sub07
+    4300014: sub08
+    4300016: sub09
+    4300018: sub10
+    4300020: BWom0003-7
+    4300022: BWom0003-6
+    4300024: BWom0003-5
+    4300026: BWom0003-4
+    4300028: BWom0003-2
+    4300030: BWom0003-1
+    4300032: BWom0003-0
+    4300034: BWom0003-H
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

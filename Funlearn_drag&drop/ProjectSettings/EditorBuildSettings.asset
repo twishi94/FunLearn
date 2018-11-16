@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Demo.unity
+    guid: c141d24673958bb44b780d361745cca7
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/b_learn.unity
+    guid: 1e68d686102fb36449a188fc30007479
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/D_learn.unity
+    guid: 80a0e4bcfcf423341b3dd82c3267015b
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/f_learn.unity
+    guid: bef155daecea0a3428527f6a154d7eeb
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/G_learn.unity
+    guid: f5d52cc920bab3445a95e9b7ed5e8a62
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/L_learn.unity
+    guid: 1b9ac0b169f3fae46aeae61f068dab8f
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/m_learn.unity
+    guid: fcd7f043380453c479ba424facb04575
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/N_learn.unity
+    guid: 2ebe8bd8cb6507c4da89aa175a278490
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/P_learn.unity
+    guid: 430711a83ae5fee43a40488985f49464
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/Q_learn.unity
+    guid: bbf4f651b86ce9341a9ae3f09f4fda1b
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/S_learn.unity
+    guid: 4cac792384da47d40a908941e83c691b
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/t_learn.unity
+    guid: c615ce3384e0e954a960290a35c98cdc
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/U_learn.unity
+    guid: 6b69dec155e62814a9552389463a1a24
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/vase_learn.unity
+    guid: ed097f03ed0eb5242946415402764c1f
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/w_learn.unity
+    guid: 9d76d8f45a757ba4b8c74fcd3391b22f
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/y_learn.unity
+    guid: 27bdf5da620a4d84ba2718e1940cffd4
+  - enabled: 1
+    path: Assets/Drag&drop/Learn/z_learn.unity
+    guid: 033038e031abcc340b36f4a7b2ad9979
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/b_question.unity
+    guid: 44c3f09e7b52af34c95bfd1c76674961
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/b_drag 1.unity
+    guid: c262f1ce980601f46945139145e028a3
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/bat1f.unity
+    guid: 130ec115bba92f44c8f08fa6980d71d9
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/d_question.unity
+    guid: 6bbfd2ab86a9a044d998ab2be1e07a7a
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/d_drag 1.unity
+    guid: 0fe496bd9d439b041b080e198171eeab
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/dino1f.unity
+    guid: f494074df84b4d84c9a88496af69e815
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/f_question.unity
+    guid: c8be531eff546b54aa127eeea80ac84c
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/f_drag 1.unity
+    guid: e9745ca3e4c5d56459be8e490c1c57a3
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/flower1f.unity
+    guid: 2c0fc4aa025eead4da0bed860e8d4c14
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/g_question.unity
+    guid: 837882aab340e6d448c25e4b716f6272
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/g_drag 1.unity
+    guid: 584a2d24091fb214b8cf17053e140437
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/guitar1f.unity
+    guid: f1f71af33119d8246a921b142ee16721
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/l_question.unity
+    guid: 69755ef8adaa4b945a2f4b7006128625
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/l_drag 1.unity
+    guid: 44afac9758c080943baf21ea1e5eef7b
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/ladder1f.unity
+    guid: 6dbdfaaa9333f0f4bb86a7c84aed3d5b
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/m_question.unity
+    guid: 515cd0e61c3cbc24c8cc99cb7d07881d
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/m_drag 1.unity
+    guid: 773a1a8a9b2773045bfeb3808029b70d
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/mountain1f.unity
+    guid: 261e63b70e1e89841be7c38f5f07f30b
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/n_question.unity
+    guid: 70357540b770f3d4190ea8fc675d6dc5
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/n_drag 1.unity
+    guid: eb50f7b7073b0184caee6fc7cfaa257c
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/nail1f.unity
+    guid: 328c368e37c244649959ea9ae1828e4f
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/p_question.unity
+    guid: 67b142b8e8ac85e4b87904e6e0615d04
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/p_drag 1.unity
+    guid: 8cd6120626d69e24bb5435af24422663
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/pop1f.unity
+    guid: 61c8cb941e0fcff44b7da95870a31bd4
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/q_question.unity
+    guid: 0c09fc88b88ef2d4a816d6823a8fc1f5
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/q_drag 1.unity
+    guid: 1065d3aa8ebd4034b94efc572c07b367
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/queen_feedback.unity
+    guid: c1935bfebf5bf7d4380df516b41b3314
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/s_question.unity
+    guid: 16c7436865cb62e4780efdf06a4c146e
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/s_drag 1.unity
+    guid: 621416a1d4bd5904aa245afecb3a2b8a
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/snake_feedback.unity
+    guid: 583d71888f86a8f44a60e81ace24d570
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/t_question.unity
+    guid: df745169a73510a41bcc3a9a21a62b07
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/t_drag 1.unity
+    guid: ddc38139ecc91c0479d0163283eed8e3
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/tie1f.unity
+    guid: 94e3834b4314b1143930c97831cc86aa
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/u_question.unity
+    guid: 69efed1725754aa4d8bb4c23a77a842d
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/u_drag 1.unity
+    guid: 4b53a7aca0a51ca418cbc169228e7dc6
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/umbrella1f.unity
+    guid: 566467727c98ce546963a78524a961d0
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/v_question.unity
+    guid: 4085d940dad63f742bdd922c91cacf17
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/v_drag 1.unity
+    guid: 0633c9bf8a5c39d4c8c8200299a9af52
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/vase1f.unity
+    guid: e5a578e340fdb544f9de2d2b304d74e7
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/w_question.unity
+    guid: 03e3f6e64cffa794c826874c5de1dedd
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/w_drag 1.unity
+    guid: 54c75dbdce7b35045979002b68227bf0
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/worm1f.unity
+    guid: ff8c0c46485d382459f8020cfafb147f
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/y_question.unity
+    guid: 830bc720e4afb2f4e86c66790b3d9d37
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/y_drag 1.unity
+    guid: 65e01fa053091e04e9d5883a5e9f64ab
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/yalk1f.unity
+    guid: a6ec8eacf9532bc48b54833da43fb268
+  - enabled: 1
+    path: Assets/Drag&drop/question_screens/z_question.unity
+    guid: fc4895d7d8e77214f97ff9ae7af4a7cd
+  - enabled: 1
+    path: Assets/Drag&drop/single_letter/sl/z_drag 1.unity
+    guid: 552cc4d02c4dbbc4aa27bbafeba26352
+  - enabled: 1
+    path: Assets/Drag&drop/Feedback Screens/single_feedback/zigzag1f.unity
+    guid: 4ac118e2105e1ca4cb4784dfc027fa0f

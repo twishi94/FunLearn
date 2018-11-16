@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="b_playcard" size="5.000000 6.625422" />
+    <ImageTarget name="d_playcard" size="5.000000 6.625422" />
+    <ImageTarget name="o_playcard" size="5.000000 6.248660" />
+    <ImageTarget name="s_playcard" size="5.000000 5.611735" />
+    <ImageTarget name="h_playcard" size="5.000000 6.826138" />
+    <ImageTarget name="u_playcard" size="5.000000 5.104895" />
+    <ImageTarget name="p_playcard" size="5.000000 6.617978" />
+    <ImageTarget name="q_playcard" size="5.000000 6.632124" />
+    <ImageTarget name="f_playcard" size="5.000000 8.957382" />
+  </Tracking>
+</QCARConfig>

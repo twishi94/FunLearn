@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Demo.unity
+    guid: c141d24673958bb44b780d361745cca7
+  - enabled: 1
+    path: Assets/play_options.unity
+    guid: fa2ea06e180d57f4a98ff4d700177ba9
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/b_learn.unity
+    guid: 8233897cd3053df488d02dfe9228d674
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/b_learn_ar.unity
+    guid: cad65a40b62f08a44b3a87f3d3584104
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/D_learn.unity
+    guid: 501ecbb6b84db2c4e91106f268bc2a93
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/d_learn_ar.unity
+    guid: 589075c19ec519941a861bb10eb388bc
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/P_learn.unity
+    guid: 94963dedafcf2764d8e1cffbd56e257b
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/p_learn_ar.unity
+    guid: f596524d23a38c541a2fa8525466211a
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/Q_learn.unity
+    guid: 3e1b95bbd69b90849bdf9e0867938295
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/q_learn_ar.unity
+    guid: f6715cda67dd3844e8aa6322504a9b94
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/S_learn.unity
+    guid: 64b3ab4429f6e7f4da118895e8b357d8
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/s_learn_ar.unity
+    guid: d791beea743c3c44b9de6a87df545c08
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/f_learn.unity
+    guid: c9760e661f1ab1749a241c49c6a061d1
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/f_learn_ar.unity
+    guid: 5759d1a1189c1b54e8c1ae2b277cf99f
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/U_learn.unity
+    guid: b4f04ceab8b015d41a0bc87227ea9264
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/u_learn_ar.unity
+    guid: 1ddad836faeb3534abbade6d45dc534d
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/w_learn.unity
+    guid: 91b30081b4ca6a746b42cfc936eda36d
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/w_learn_ar.unity
+    guid: a83f204b5bd0e404aabf5ac915422874
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/G_learn.unity
+    guid: 9ea0efd7410b2c642999642308a48be6
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/g_learn_ar.unity
+    guid: a5abeccba63c0e245bf02de4769755a8
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/L_learn.unity
+    guid: 9c64a8fbcf9a7e74d8c1a3a02f0b3905
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/l_learn_ar.unity
+    guid: 6ff9663b0ec3b51478f5666a6b27b67f
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/m_learn.unity
+    guid: f51fd44dbb87436488951e50e50ebb27
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/m_learn_ar.unity
+    guid: 2f4c9134fba375940a080ae4a965c26f
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/N_learn.unity
+    guid: df87930d76aee2146804784ae9948761
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/n_learn_ar.unity
+    guid: fa6a3277e59fa4f41b0ab12ee4823f85
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/t_learn.unity
+    guid: f3fab38d9c814d542bf364a041b2937d
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/t_learn_ar.unity
+    guid: ee6521ff3b044284dbcad68571ca0aed
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/vase_learn.unity
+    guid: 936659e15401f4447bb7a73815bbb759
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/v_learn_ar.unity
+    guid: ae99d3d00d5216f45b27b70735baae0a
+  - enabled: 1
+    path: Assets/Learn/Learn_screens/z_learn.unity
+    guid: 974dc6b8264ad9047b39e849c979cf86
+  - enabled: 1
+    path: Assets/AR Screens/Learn_ar/z_learn_ar.unity
+    guid: 9d167d154fc9caf4287056f3f58e675c
+  - enabled: 1
+    path: Assets/Question_Screens/b_question.unity
+    guid: c477f19261995ec47ad42983f592f95f
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/b_question_ar.unity
+    guid: c4296d5bccb006349b023793dc049703
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/b_ar.unity
+    guid: 1f09a88f0c242e94cb0c2f435ac38114
+  - enabled: 1
+    path: Assets/Question_Screens/d_question.unity
+    guid: 55b16a15218e8824b9aa3c20ba6792f3
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/d_question_ar.unity
+    guid: f31e2f1ae56551b47b26c7edcbf4df14
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/d_ar.unity
+    guid: 087def2207d154a4e8ef5ecd3f622b15
+  - enabled: 1
+    path: Assets/Question_Screens/p_question.unity
+    guid: 72ee295f113257a4286715c8570b7eed
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/p_question_ar.unity
+    guid: 4c287ee800695d64c9a6360983bac84a
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/p_ar.unity
+    guid: 3ce4b1493d9729447b430444197418c4
+  - enabled: 1
+    path: Assets/Question_Screens/q_question.unity
+    guid: 1fe485bbb01e6524fa330857bfdc47eb
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/q_question_ar.unity
+    guid: c0b57ccf3cba0c6428ad4c103183c2b8
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/q_ar.unity
+    guid: fc784e37fbe301d44ae7e80cf173fc32
+  - enabled: 1
+    path: Assets/Question_Screens/s_question.unity
+    guid: fffd13530576e7247b5d3cdba10fe296
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/s_question_ar.unity
+    guid: 5edd07cd8b29c2942874ff2f4726b45c
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/s_ar.unity
+    guid: 01cd2dda97eabee4aacceb482ca963c1
+  - enabled: 1
+    path: Assets/Question_Screens/f_question.unity
+    guid: 3f908613d1107354aa182d181a7e9ffa
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/f_question_ar.unity
+    guid: e3331cf179cc03c4baa923086201a931
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/f_ar.unity
+    guid: d4a67cd9a184b784384bc92d92cf36d8
+  - enabled: 1
+    path: Assets/Question_Screens/u_question.unity
+    guid: e965db3f20013b3418701762d4bcbc06
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/u_question_ar.unity
+    guid: fe0f38799976caa468d2fbe4f295b407
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/u_ar.unity
+    guid: 78118aa24064da2489f6b075bdb7abdd
+  - enabled: 1
+    path: Assets/Question_Screens/w_question.unity
+    guid: de52a183242389f4a9dd654a709d2eb8
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/w_question_ar.unity
+    guid: a2445f15e1bc1cd46a8b9c82429ce1df
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/w_ar.unity
+    guid: d04f04449b572194f96e9480e12c5ea5
+  - enabled: 1
+    path: Assets/Question_Screens/g_question.unity
+    guid: 03832792a08b9344eb6a057fa13129f6
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/g_question_ar.unity
+    guid: 014a66e801fa98b439a1f6e4280ecd49
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/g_ar.unity
+    guid: 7f6256b5ceaa4914080ee91650338b34
+  - enabled: 1
+    path: Assets/Question_Screens/l_question.unity
+    guid: 08980332ffb9f0b4d9b87f358e38b965
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/l_question_ar.unity
+    guid: 664fa7a4033fa3e4d8baff01515ee754
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/l_ar.unity
+    guid: 95f343dfc8d7d934e8372d8d24b23370
+  - enabled: 1
+    path: Assets/Question_Screens/m_question.unity
+    guid: 8d72a25c6b1d3444dabea7c84bb36e8f
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/m_question_ar.unity
+    guid: e2c220dd9aef4fd4ba50e5d2d4b50225
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/m_ar.unity
+    guid: 2739d2c6ae678b249a4690d26ad84611
+  - enabled: 1
+    path: Assets/Question_Screens/n_question.unity
+    guid: 83d087ee333e76b4e8d43aa22838ef0d
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/n_question_ar.unity
+    guid: 7a7370b2c5047ce4a99a131ff090c3cf
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/n_ar.unity
+    guid: ab84b2c5201bf824294d33de4d3bff28
+  - enabled: 1
+    path: Assets/Question_Screens/t_question.unity
+    guid: b515b85670d2d364681e81cffa8ca2f7
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/t_question_ar.unity
+    guid: 68f31938617a35b4b9f58c5d96e76b54
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/t_ar.unity
+    guid: 12328999049122a4f84b497feb5517e8
+  - enabled: 1
+    path: Assets/Question_Screens/y_question.unity
+    guid: 42f5a23720254eb418bfd2646f2e2c66
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/y_question_ar.unity
+    guid: 28ed4ad9a74811f47b20e18d3d03ed8b
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/y_ar.unity
+    guid: f3864418f5c4b0d4a8885095fa08e8c2
+  - enabled: 1
+    path: Assets/Question_Screens/z_question.unity
+    guid: 8641c7e1ac6f8274bbbfea16e2862959
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/z_question_ar.unity
+    guid: 6003306ac8c23e147bfe0a413701ff30
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/z_ar.unity
+    guid: 9e184770168c4a04c89238cfb1de0a41
+  - enabled: 1
+    path: Assets/Question_Screens/v_question.unity
+    guid: 0ccf623af1077fb479be05bfdc4d16a4
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/v_question_ar.unity
+    guid: 7de31b4bd6f42b04db2b754fc564aecb
+  - enabled: 1
+    path: Assets/AR Screens/Question_ar/feedback_screens/v_ar.unity
+    guid: 119c91469d279d14b98876677da2e5c6
